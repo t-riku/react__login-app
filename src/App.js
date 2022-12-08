@@ -83,7 +83,7 @@ function App() {
           <p className="errorMsg">{formErrors.password}</p>
           <button className="submitButton">ログイン</button>
           {Object.keys(formErrors).length === 0 && isSubmit && (
-            <div className="msgOk">ログインに成功しました</div>
+            <div className="msgOk">ログインに成功しました！</div>
           )}
         </div>
       </form>
