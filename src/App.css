@@ -1,11 +1,11 @@
 body {
-  background: rgb(17, 11, 18);
+  background: rgb(203, 236, 206);
   background: linear-gradient(
     90deg,
-    rgba(17, 11, 18, 1) 0%,
-    rgba(29, 6, 37, 1) 29%,
-    rgba(34, 24, 54, 1) 68%,
-    rgba(28, 3, 52, 1) 100%
+    rgb(184, 244, 169) 0%,
+    rgb(156, 238, 164) 30%,
+    rgb(161, 253, 179) 68%,
+    rgb(138, 235, 142) 100%
   );
   overflow-y: hidden;
 }
@@ -63,7 +63,7 @@ h1 {
 }
 
 button {
-  background-color: rgb(93, 93, 168);
+  background-color: rgb(149, 213, 141);
   width: 100%;
   margin-top: 10px;
   border: none;
